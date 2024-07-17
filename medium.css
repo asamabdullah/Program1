@@ -1,0 +1,9 @@
+@media screen and (min-width: 576.1px) and (max-width: 990px) {
+    .sec2-par-div{
+        flex-wrap: wrap;
+    }
+
+    .sec2-img-div{
+        grid-template-columns: repeat(1 , 1fr);
+    }
+}

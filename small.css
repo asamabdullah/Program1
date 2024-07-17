@@ -1,0 +1,8 @@
+@media screen and (max-width: 576px) {
+    .sec2-par-div{
+        flex-direction: column;
+    }
+
+
+
+}
